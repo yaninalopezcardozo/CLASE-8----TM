@@ -1,6 +1,6 @@
 # CLASE-8----TM
 Conectando con procesador de texto
-> **Configuraciones logradas**:
+> **Configuraciones logradas*:
 > * Carátula.
 > * Encabezados y pie de Página.
 > * Estilos de Encabezados.
